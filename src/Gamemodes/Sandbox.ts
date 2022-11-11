@@ -41,8 +41,6 @@ export class SandboxShapeManager extends ShapeManager {
 export default class SandboxArena extends ArenaEntity {
     /** Limits shape count to floor(12.5 * player count) */
 	protected shapes: ShapeManager = new SandboxShapeManager(this);
-
-	if(!this.boss) this.spawnBoss();
 	
     public constructor(game: GameServer) {
         super(game);
@@ -55,6 +53,7 @@ export default class SandboxArena extends ArenaEntity {
     public tick(tick: number) {
 		const arenaSize = Math.floor(25 * Math.sqrt(Math.max(this.game.clients.size, 1))) * 100;
 		if (this.width !== arenaSize || this.height !== arenaSize) this.updateBounds(arenaSize, arenaSize);
+	        if (!this.boss) this.spawnBoss();
 
         super.tick(tick);
     }
