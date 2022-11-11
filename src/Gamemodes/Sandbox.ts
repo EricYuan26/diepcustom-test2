@@ -42,6 +42,8 @@ export default class SandboxArena extends ArenaEntity {
     /** Limits shape count to floor(12.5 * player count) */
 	protected shapes: ShapeManager = new SandboxShapeManager(this);
 
+	if(!this.boss) this.spawnBoss();
+	
     public constructor(game: GameServer) {
         super(game);
 
