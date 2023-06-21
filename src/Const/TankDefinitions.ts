@@ -6789,7 +6789,7 @@ const TankDefinitions = JSON.parse(`[
         "stats": [
             {
                 "name": "Movement Speed",
-                "max": 7
+                "max": 8
             },
             {
                 "name": "Reload",
