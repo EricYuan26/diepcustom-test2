@@ -162,7 +162,7 @@ const TankDefinitions = JSON.parse(`[
             7,
             8,
             36,
-            16
+            10
         ],
         "flags": {
             "invisibility": false,
