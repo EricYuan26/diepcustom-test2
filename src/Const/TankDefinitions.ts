@@ -161,7 +161,7 @@ const TankDefinitions = JSON.parse(`[
             6,
             7,
             8,
-            36,
+            16,
             10
         ],
         "flags": {
