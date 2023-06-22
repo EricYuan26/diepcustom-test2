@@ -6748,8 +6748,8 @@ const TankDefinitions = JSON.parse(`[
         "levelRequirement": 45,
         "upgrades": [],
         "flags": {
-            "invisibility": true,
-            "zoomAbility": true,
+            "invisibility": false,
+            "zoomAbility": false,
             "devOnly": false
         },
         "visibilityRateShooting": 0.23,
@@ -6757,11 +6757,11 @@ const TankDefinitions = JSON.parse(`[
         "invisibilityRate": 0.2,
         "fieldFactor": 1,
         "absorbtionFactor": 1,
-        "speed": 5,
+        "speed": 1,
         "maxHealth": 300,
-        "preAddon": "launcher",
+        "preAddon": null,
         "postAddon": null,
-        "sides": 6,
+        "sides": 1,
         "borderWidth": 15,
         "barrels": [
             {
@@ -6785,7 +6785,7 @@ const TankDefinitions = JSON.parse(`[
                     "speed": 0.7,
                     "scatterRate": 1,
                     "lifeLength": -1,
-                    "absorbtionFactor": 3
+                    "absorbtionFactor": 0.4
                 }
             }
         ],
@@ -6825,17 +6825,17 @@ const TankDefinitions = JSON.parse(`[
         ]
     },
     {
-        "id": 100,
+        "id": 57,
         "name": "Dreadnoughts",
         "upgradeMessage": "DREAD ME YOU FOOLS",
         "levelRequirement": 90,
         "upgrades": [
-            101,
-            102,
-            103,
-            104,
-            105,
-            106
+            58,
+            59,
+            60,
+            61,
+            62,
+            63
         ],
         "flags": {
             "invisibility": false,
@@ -7023,7 +7023,7 @@ const TankDefinitions = JSON.parse(`[
         ]
     },
     {
-        "id": 101,
+        "id": 58,
         "name": "Base-Seeker",
         "upgradeMessage": "",
         "levelRequirement": 105,
@@ -7214,7 +7214,7 @@ const TankDefinitions = JSON.parse(`[
         ]
     },
     {
-        "id": 102,
+        "id": 59,
         "name": "Base-Official",
         "upgradeMessage": "",
         "levelRequirement": 105,
@@ -7471,7 +7471,7 @@ const TankDefinitions = JSON.parse(`[
         ]
     },
     {
-        "id": 103,
+        "id": 60,
         "name": "Base-Applicant",
         "upgradeMessage": "",
         "levelRequirement": 105,
@@ -7668,7 +7668,7 @@ const TankDefinitions = JSON.parse(`[
         ]
     },
     {
-        "id": 104,
+        "id": 61,
         "name": "Base-Commander",
         "upgradeMessage": "",
         "levelRequirement": 105,
@@ -7868,7 +7868,7 @@ const TankDefinitions = JSON.parse(`[
         ]
     },
     {
-        "id": 105,
+        "id": 62,
         "name": "Base-Analyst",
         "upgradeMessage": "",
         "levelRequirement": 105,
@@ -8059,7 +8059,7 @@ const TankDefinitions = JSON.parse(`[
         ]
     },
     {
-        "id": 106,
+        "id": 63,
         "name": "Base-Saboteur",
         "upgradeMessage": "",
         "levelRequirement": 105,
@@ -8250,7 +8250,7 @@ const TankDefinitions = JSON.parse(`[
         ]
     },
     {
-        "id": 107,
+        "id": 64,
         "name": "Commander-Commander",
         "upgradeMessage": "",
         "levelRequirement": 120,
@@ -8453,7 +8453,7 @@ const TankDefinitions = JSON.parse(`[
         ]
     },
     {
-        "id": 108,
+        "id": 65,
         "name": "Applicant-Commander",
         "upgradeMessage": "",
         "levelRequirement": 120,
@@ -8656,7 +8656,7 @@ const TankDefinitions = JSON.parse(`[
         ]
     },
     {
-        "id": 109,
+        "id": 66,
         "name": "Saboteur-Commander",
         "upgradeMessage": "",
         "levelRequirement": 120,
