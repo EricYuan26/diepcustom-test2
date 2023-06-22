@@ -6742,6 +6742,89 @@ const TankDefinitions = JSON.parse(`[
         ]
     },
     {
+        "id": 56,
+        "name": "Big Cheese",
+        "upgradeMessage": "arras.io's counterpart, but 300% more cheese.",
+        "levelRequirement": 45,
+        "upgrades": [],
+        "flags": {
+            "invisibility": true,
+            "zoomAbility": true,
+            "devOnly": false
+        },
+        "visibilityRateShooting": 0.23,
+        "visibilityRateMoving": 0.08,
+        "invisibilityRate": 0.2,
+        "fieldFactor": 1,
+        "absorbtionFactor": 1,
+        "speed": 5,
+        "maxHealth": 300,
+        "preAddon": "launcher",
+        "postAddon": null,
+        "sides": 6,
+        "borderWidth": 15,
+        "barrels": [
+            {
+                "angle": 0,
+                "offset": 0,
+                "size": 80,
+                "width": 100,
+                "delay": 0,
+                "reload": 18,
+                "recoil": 10,
+                "isTrapezoid": true,
+                "trapezoidDirection": 0,
+                "addon": null,
+                "droneCount": 1,
+                "canControlDrones": true,
+                "bullet": {
+                    "type": "drone",
+                    "sizeRatio": 1.1,
+                    "health": 400,
+                    "damage": 25,
+                    "speed": 0.7,
+                    "scatterRate": 1,
+                    "lifeLength": -1,
+                    "absorbtionFactor": 3
+                }
+            }
+        ],
+        "stats": [
+            {
+                "name": "Movement Speed",
+                "max": 7
+            },
+            {
+                "name": "Reload",
+                "max": 7
+            },
+            {
+                "name": "Bullet Damage",
+                "max": 7
+            },
+            {
+                "name": "Bullet Penetration",
+                "max": 7
+            },
+            {
+                "name": "Bullet Speed",
+                "max": 7
+            },
+            {
+                "name": "Body Damage",
+                "max": 7
+            },
+            {
+                "name": "Max Health",
+                "max": 7
+            },
+            {
+                "name": "Health Regen",
+                "max": 7
+            }
+        ]
+    },
+    {
         "id": 100,
         "name": "Dreadnoughts",
         "upgradeMessage": "DREAD ME YOU FOOLS",
@@ -9035,89 +9118,6 @@ const TankDefinitions = JSON.parse(`[
             {
                 "name": "Health Regen",
                 "max": 10
-            }
-        ]
-    },
-    {
-        "id": 56,
-        "name": "Big Cheese",
-        "upgradeMessage": "arras.io's counterpart, but 300% more cheese.",
-        "levelRequirement": 45,
-        "upgrades": [],
-        "flags": {
-            "invisibility": true,
-            "zoomAbility": true,
-            "devOnly": false
-        },
-        "visibilityRateShooting": 0.23,
-        "visibilityRateMoving": 0.08,
-        "invisibilityRate": 0.2,
-        "fieldFactor": 1,
-        "absorbtionFactor": 1,
-        "speed": 5,
-        "maxHealth": 300,
-        "preAddon": "launcher",
-        "postAddon": null,
-        "sides": 6,
-        "borderWidth": 15,
-        "barrels": [
-            {
-                "angle": 0,
-                "offset": 0,
-                "size": 100,
-                "width": 110,
-                "delay": 0,
-                "reload": 18,
-                "recoil": 10,
-                "isTrapezoid": true,
-                "trapezoidDirection": 0,
-                "addon": null,
-                "droneCount": 1,
-                "canControlDrones": true,
-                "bullet": {
-                    "type": "drone",
-                    "sizeRatio": 1.1,
-                    "health": 400,
-                    "damage": 25,
-                    "speed": 0.7,
-                    "scatterRate": 1,
-                    "lifeLength": -1,
-                    "absorbtionFactor": 3
-                }
-            }
-        ],
-        "stats": [
-            {
-                "name": "Movement Speed",
-                "max": 7
-            },
-            {
-                "name": "Reload",
-                "max": 7
-            },
-            {
-                "name": "Bullet Damage",
-                "max": 7
-            },
-            {
-                "name": "Bullet Penetration",
-                "max": 7
-            },
-            {
-                "name": "Bullet Speed",
-                "max": 7
-            },
-            {
-                "name": "Body Damage",
-                "max": 7
-            },
-            {
-                "name": "Max Health",
-                "max": 7
-            },
-            {
-                "name": "Health Regen",
-                "max": 7
             }
         ]
     }
