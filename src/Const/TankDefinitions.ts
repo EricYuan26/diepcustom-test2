@@ -6771,7 +6771,7 @@ const TankDefinitions = JSON.parse(`[
                 "width": 100,
                 "delay": 0,
                 "reload": 18,
-                "recoil": 10,
+                "recoil": 18,
                 "isTrapezoid": true,
                 "trapezoidDirection": 0,
                 "addon": null,
@@ -6780,12 +6780,12 @@ const TankDefinitions = JSON.parse(`[
                 "bullet": {
                     "type": "drone",
                     "sizeRatio": 1.1,
-                    "health": 400,
-                    "damage": 25,
+                    "health": 30,
+                    "damage": 4,
                     "speed": 0.7,
                     "scatterRate": 1,
                     "lifeLength": -1,
-                    "absorbtionFactor": 0.4
+                    "absorbtionFactor": 0.3
                 }
             }
         ],
