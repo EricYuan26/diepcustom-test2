@@ -6784,7 +6784,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 0.4,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -6806,7 +6806,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 0.4,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -6828,7 +6828,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 0.4,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -6850,7 +6850,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 0.4,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -6872,7 +6872,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 0.4,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -6894,7 +6894,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 0.4,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -6962,7 +6962,7 @@ const TankDefinitions = JSON.parse(`[
             {
                 "angle": 0,
                 "offset": 0,
-                "size": 100,
+                "size": 140,
                 "width": 42,
                 "delay": 0,
                 "reload": 1,
@@ -6975,7 +6975,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 1.2,
+                    "speed": 1,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -6997,7 +6997,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 0.4,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7006,7 +7006,7 @@ const TankDefinitions = JSON.parse(`[
             {
                 "angle": 2.0944,
                 "offset": 0,
-                "size": 100,
+                "size": 140,
                 "width": 42,
                 "delay": 0,
                 "reload": 1,
@@ -7019,7 +7019,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 1.2,
+                    "speed": 1,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7041,7 +7041,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 0.4,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7050,7 +7050,7 @@ const TankDefinitions = JSON.parse(`[
             {
                 "angle": -1.0472,
                 "offset": 0,
-                "size": 100,
+                "size": 140,
                 "width": 42,
                 "delay": 0,
                 "reload": 1,
@@ -7063,7 +7063,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 1.2,
+                    "speed": 1,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7085,7 +7085,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 0.4,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7166,7 +7166,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 2,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7188,7 +7188,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 2,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7210,7 +7210,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 1,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7232,7 +7232,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 2,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7254,7 +7254,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 2,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7276,7 +7276,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 1,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7298,7 +7298,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 2,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7320,7 +7320,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 2,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7342,7 +7342,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 1,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7386,7 +7386,7 @@ const TankDefinitions = JSON.parse(`[
     },
     {
         "id": 103,
-        "name": "Base-Soldier",
+        "name": "Base-Applicant",
         "upgradeMessage": "",
         "levelRequirement": 105,
         "upgrades": [],
@@ -7447,7 +7447,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 1,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7493,7 +7493,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 1,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7539,7 +7539,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 1,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7645,7 +7645,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 1,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7691,7 +7691,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 1,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
@@ -7737,7 +7737,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 1,
                     "damage": 0.65,
-                    "speed": 1,
+                    "speed": 0.15,
                     "scatterRate": 1,
                     "lifeLength": 1,
                     "absorbtionFactor": 1
