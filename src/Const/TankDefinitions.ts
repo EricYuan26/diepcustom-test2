@@ -6764,7 +6764,7 @@ const TankDefinitions = JSON.parse(`[
                 "offset": 0,
                 "size": 95,
                 "width": 42,
-                "delay": 0.5,
+                "delay": 0,
                 "reload": 1,
                 "recoil": 1,
                 "isTrapezoid": false,
@@ -6786,7 +6786,7 @@ const TankDefinitions = JSON.parse(`[
                 "offset": 0,
                 "size": 95,
                 "width": 42,
-                "delay": 0.5,
+                "delay": 0,
                 "reload": 1,
                 "recoil": 1,
                 "isTrapezoid": false,
@@ -6808,7 +6808,7 @@ const TankDefinitions = JSON.parse(`[
                 "offset": 0,
                 "size": 95,
                 "width": 42,
-                "delay": 0.5,
+                "delay": 0,
                 "reload": 1,
                 "recoil": 1,
                 "isTrapezoid": false,
@@ -6830,7 +6830,7 @@ const TankDefinitions = JSON.parse(`[
                 "offset": 0,
                 "size": 95,
                 "width": 42,
-                "delay": 0.5,
+                "delay": 0,
                 "reload": 1,
                 "recoil": 1,
                 "isTrapezoid": false,
@@ -6899,7 +6899,7 @@ const TankDefinitions = JSON.parse(`[
             },
             {
                 "name": "Reload",
-                "max": 7
+                "max": 15
             },
             {
                 "name": "Bullet Damage",
