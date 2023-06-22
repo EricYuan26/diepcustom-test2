@@ -8786,7 +8786,7 @@ const TankDefinitions = JSON.parse(`[
         "absorbtionFactor": 1,
         "speed": 5,
         "maxHealth": 300,
-        "preAddon": launcher,
+        "preAddon": "launcher",
         "postAddon": null,
         "sides": 6,
         "borderWidth": 15,
