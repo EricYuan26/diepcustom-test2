@@ -162,11 +162,7 @@ const TankDefinitions = JSON.parse(`[
             7,
             8,
             36,
-            100,
-            101,
-            102,
-            103,
-            104
+            57
         ],
         "flags": {
             "invisibility": false,
@@ -6523,7 +6519,7 @@ const TankDefinitions = JSON.parse(`[
     },
     {
         "id": 53,
-        "name": "",
+        "name": "null",
         "upgradeMessage": "",
         "levelRequirement": 0,
         "upgrades": [],
@@ -6771,7 +6767,7 @@ const TankDefinitions = JSON.parse(`[
                 "width": 100,
                 "delay": 0,
                 "reload": 18,
-                "recoil": 18,
+                "recoil": 50,
                 "isTrapezoid": true,
                 "trapezoidDirection": 0,
                 "addon": null,
@@ -6779,7 +6775,7 @@ const TankDefinitions = JSON.parse(`[
                 "canControlDrones": true,
                 "bullet": {
                     "type": "drone",
-                    "sizeRatio": 1.1,
+                    "sizeRatio": 1.7,
                     "health": 30,
                     "damage": 4,
                     "speed": 0.7,
@@ -7673,8 +7669,8 @@ const TankDefinitions = JSON.parse(`[
         "upgradeMessage": "",
         "levelRequirement": 105,
         "upgrades": [
-            107,
-            108
+            64,
+            65
         ],
         "flags": {
             "invisibility": false,
