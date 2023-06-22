@@ -6904,35 +6904,35 @@ const TankDefinitions = JSON.parse(`[
         "stats": [
             {
                 "name": "Movement Speed",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Reload",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Damage",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Penetration",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Speed",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Body Damage",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Max Health",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Health Regen",
-                "max": 15
+                "max": 10
             }
         ]
     },
@@ -7095,35 +7095,35 @@ const TankDefinitions = JSON.parse(`[
         "stats": [
             {
                 "name": "Movement Speed",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Reload",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Damage",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Penetration",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Speed",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Body Damage",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Max Health",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Health Regen",
-                "max": 15
+                "max": 10
             }
         ]
     },
@@ -7352,35 +7352,35 @@ const TankDefinitions = JSON.parse(`[
         "stats": [
             {
                 "name": "Movement Speed",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Reload",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Damage",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Penetration",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Speed",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Body Damage",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Max Health",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Health Regen",
-                "max": 15
+                "max": 10
             }
         ]
     },
@@ -7549,35 +7549,35 @@ const TankDefinitions = JSON.parse(`[
         "stats": [
             {
                 "name": "Movement Speed",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Reload",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Damage",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Penetration",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Speed",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Body Damage",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Max Health",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Health Regen",
-                "max": 15
+                "max": 10
             }
         ]
     }
@@ -7747,35 +7747,35 @@ const TankDefinitions = JSON.parse(`[
         "stats": [
             {
                 "name": "Movement Speed",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Reload",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Damage",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Penetration",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Bullet Speed",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Body Damage",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Max Health",
-                "max": 15
+                "max": 10
             },
             {
                 "name": "Health Regen",
-                "max": 15
+                "max": 10
             }
         ]
     }
