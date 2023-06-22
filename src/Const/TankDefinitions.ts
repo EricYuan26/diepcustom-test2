@@ -8876,10 +8876,10 @@ const TankDefinitions = JSON.parse(`[
             {
                 "angle": 0,
                 "offset": 0,
-                "size": 120,
+                "size": 145,
                 "width": 42,
                 "delay": 0,
-                "reload": 1.5,
+                "reload": 2,
                 "recoil": 3.4,
                 "isTrapezoid": false,
                 "trapezoidDirection": 0,
@@ -8889,7 +8889,7 @@ const TankDefinitions = JSON.parse(`[
                     "sizeRatio": 1,
                     "health": 4,
                     "damage": 0.7,
-                    "speed": 7,
+                    "speed": 23,
                     "scatterRate": 1,
                     "lifeLength": 4,
                     "absorbtionFactor": 1
